@@ -3,4 +3,4 @@
 
 # $ npm start
 
-#### (ML Code in Collab file)
+# ML Code in Stock_Predicition.ipnyb
