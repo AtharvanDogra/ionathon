@@ -3,4 +3,4 @@
 
 # $ npm start
 
-# ML Code in Stock_Predicition.ipnyb
+# Sentiment analysis and LSTM implementation in Stock_Predicition.ipnyb
